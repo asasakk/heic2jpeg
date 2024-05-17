@@ -3,7 +3,7 @@ import pillow_heif
 import glob
 import pathlib
 
-dir = r"C:\Users\ko\Pictures\img"
+# dir = " your image Directory"
 
 def heic_jpg(image_path, save_path):
     try:
